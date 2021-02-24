@@ -9,3 +9,7 @@ The 1st notebook applies the learning algorithm on our dataset and validates res
 The 2nd notebook is trained on the very similar dataset that was collected on adults, and evaluates the model on our dataset and validates results on our video, that is not a part of the dataset. Both evaluation results could be found in the folder "test-results". 
 
 ![test-results](https://github.com/androbaza/CV-child-action-recognition/blob/master/test-results/CVrecipes-test.gif)
+
+Confusion matrix with the R2+1D model:
+
+![test-results](https://github.com/androbaza/CV-child-action-recognition/blob/master/test-results/R2+1D-confusion-matrix.png)
