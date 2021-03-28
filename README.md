@@ -9,7 +9,7 @@ The 1st notebook applies the learning algorithm on our dataset and validates res
 The 2nd notebook is trained on the very similar dataset that was collected on adults, and evaluates the model on our dataset and validates results on our video, that is not a part of the dataset. Both evaluation results could be found in the folder "test-results". 
 
 <p align="center">
-  <img width="600" src="https://github.com/androbaza/CV-child-action-recognition/blob/master/test-results/CVrecipes%20R2%2B1D/CVrecipes-test.gif">
+  <img width="900" src="https://github.com/androbaza/CV-child-action-recognition/blob/master/test-results/CVrecipes%20R2%2B1D/CVrecipes-test.gif">
 </p>
 
 Confusion matrix with the TSN model (94.44% accuracy):
