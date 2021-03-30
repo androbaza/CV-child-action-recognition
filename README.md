@@ -5,7 +5,7 @@ Child action and gender recognition based on dataset provided by Prof. Sandygulo
   <img width="900" src="https://github.com/androbaza/CV-child-action-recognition/blob/master/test-results/CVrecipes-R2%2B1D-video/CVrecipes-test.gif">
 </p>
 
-Confusion matrix with the TANnet model, optical flow (94.44% accuracy):
+Confusion matrix with the TANnet model, optical flow (96.03% accuracy):
 
 <p align="center">
   <img width="400" src="https://github.com/androbaza/CV-child-action-recognition/blob/master/test-results/TANnet-flow/TANnet-conf-mat.png">
