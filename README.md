@@ -8,7 +8,7 @@ Child action and gender recognition based on dataset provided by Prof. Sandygulo
 Confusion matrix with the CSN model, optical flow (97.62% accuracy):
 
 <p align="center">
-  <img width="400" src="">
+  <img width="400" src="https://github.com/androbaza/CV-child-action-recognition/blob/master/test-results/CSN-flow/CSN-con-mat.png">
 </p>
 
 Confusion matrix with the i3D model, rgb frames (96.83% accuracy):
